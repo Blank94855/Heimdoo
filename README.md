@@ -1,28 +1,12 @@
-```
-⚠️ WARNING ⚠️
-
-This software is provided “as is” without warranty of any kind, either expressed or implied. 
-By using this application, you acknowledge that you are doing so at your own risk.
-
-Flashing firmware or modifying system images carries an inherent risk of permanently 
-damaging or bricking your device. This tool is intended for users who understand the 
-implications of system-level changes on Android devices. Improper use can lead to data 
-loss, device malfunction, or render the device unusable.
-
-The developer of this fork and the original Heimdoo developer shall not be held responsible 
-for any damage, loss of data, hardware failure, voided warranties, or any other consequences 
-that may occur through the use or misuse of this application.
-
-By proceeding to use this app, you agree to take full responsibility for any outcomes that 
-result from its usage.
-
-DO NOT use Heimdoo unless you understand what you're doing. 
-Always back up your data and proceed with extreme caution.
-```
+  <p align="center">
+  <img src="![4841](https://github.com/user-attachments/assets/13242a02-ca96-4299-ad90-0e531ff7ec03)
+" width="128" alt="Heimdoo logo">
+</p>
 
 
 
 # Heimdoo
+
 
 Heimdoo is an Samsung flashing tool that provides a command-line interface for flashing firmware and system images on supported devices using the Heimdall tool.
 
