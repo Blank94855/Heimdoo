@@ -118,3 +118,4 @@ Always back up your data and proceed with extreme caution.
 
 
 Thank you for using Heimdoo!
+Support server: https://discord.gg/daNdzVMw 
